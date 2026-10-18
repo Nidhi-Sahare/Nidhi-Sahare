@@ -1,41 +1,55 @@
-<!--
-**Nidhi-Sahare/Nidhi-Sahare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="./pipeline.svg" alt="Computer Vision Banner" width="100%" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-<p align="center">
-  <img src="./pipeline.svg" alt="Computer vision animated banner" width="100%" />
-</p>
+### 01 /hey, i'm nidhi! 👋
 
-### a little about me
 
 i'm curious about how things work, especially when it comes to making machines see and understand the world.
 
 mostly interested in **computer vision, deep learning, and multimodal AI**.
 
-i like exploring ideas, questioning how things are done, and figuring things out by experimenting.
+i like exploring ideas, questioning how things work, and figuring things out by experimenting.
 
-sometimes i spend more time understanding a problem than solving it. but that's the fun part.
+> sometimes i spend more time understanding a problem than solving it. but that's the fun part.
 
-### a few things about me
+<br>
 
-- i like knowing *why* something works, not just *that* it works.
-- i enjoy turning random "what if?" thoughts into experiments.
-- i care about the little details, sometimes a bit too much.
-- i like the intersection of science, technology, and creativity.
-- i'm always finding something new to be curious about.
+### 02 / how my brain works
 
-### things that interest me
+a few things about me...
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❔ the why</h3>
+      i like knowing <i>why</i> something works, not just <i>that</i> it works.
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ the what if</h3>
+      random ideas have a habit of turning into experiments.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>⌁ the details</h3>
+      i care about the little things, sometimes a bit too much.
+    </td>
+    <td valign="top">
+      <h3>✳ the curiosity</h3>
+      science, technology, creativity — i love where they meet.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 03 / curiosity index
+
+things that interest me...
 
 `computer vision` · `deep learning` · `multimodal AI`
 
@@ -43,7 +57,13 @@ sometimes i spend more time understanding a problem than solving it. but that's 
 
 `research` · `creative computing`
 
+<br>
+
 ---
 
-*usually somewhere between "what if..." and "why isn't this working?"*
+<div align="center">
+  <p>✳</p>
+  <i>somewhere between "what if..." and "why isn't this working?"</i>
+</div>
+
   
