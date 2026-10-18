@@ -1,5 +1,3 @@
-**## Hi there 👋
-
 <!--
 **Nidhi-Sahare/Nidhi-Sahare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**
-# hey, i'm nidhi! 👋
 
 <p align="center">
   <img src="./pipeline.svg" alt="Computer vision animated banner" width="100%" />
