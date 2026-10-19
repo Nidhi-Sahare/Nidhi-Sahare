@@ -25,21 +25,21 @@ a few things about me...
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>❔ the why</h3>
+      <h3> the why</h3>
       i like knowing <i>why</i> something works, not just <i>that</i> it works.
     </td>
     <td width="50%" valign="top">
-      <h3>↗ the what if</h3>
+      <h3> the what if</h3>
       random ideas have a habit of turning into experiments.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3>⌁ the details</h3>
+      <h3> the details</h3>
       i care about the little things, sometimes a bit too much.
     </td>
     <td valign="top">
-      <h3>✳ the curiosity</h3>
+      <h3> the curiosity</h3>
       science, technology, creativity — i love where they meet.
     </td>
   </tr>
@@ -62,7 +62,7 @@ things that interest me...
 ---
 
 <div align="center">
-  <p>✳</p>
+  <p></p>
   <i>somewhere between "what if..." and "why isn't this working?"</i>
 </div>
 
